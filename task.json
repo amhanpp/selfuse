@@ -7,6 +7,8 @@
     "0 */1 * * * https://raw.githubusercontent.com/amhanpp/selfuse/main/jd_axcl.js, tag=东东爱消除, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylocks/jd_xxl.jpg, enabled=true",
      "35 * * * * https://raw.githubusercontent.com/amhanpp/selfuse/main/jd_axcgh.js, tag=个护爱消除, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_xxl_gh.png, enabled=true",
     "30 8 * * * https://raw.githubusercontent.com/amhanpp/selfuse/main/jd_crazy_joy.js, tag=crazyJoy任务, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
+    "1 7 * * * https://raw.githubusercontent.com/amhanpp/selfuse/main/jd_shuyuan.js, tag=🐕东神仙书院, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
+    
     
   ]
 }
