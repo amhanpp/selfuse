@@ -28,7 +28,10 @@
        "0 0,9,11,13,15,17,19,20,21,23 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain_offical.js, tag=官方号直播红包雨 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_live_redrain_offical.png",
      "5 7 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_xg.js, tag=小鸽有礼 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_xg.png",
     "1 7 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_wechat_sign.js, tag=京东粉丝专享 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_wechat_sign.png",
-  
-  
+   "1 7 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_ms.js, tag=京东秒秒币 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_ms.png",
+    "1 7 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_mh.js, tag=盲盒抽京豆 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_mh.png",
+   "1 8,9 14-31/1 1 * https://raw.githubusercontent.com/shylocks/Loon/main/jd_bj.js, tag=宝洁美发屋 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_bj.png",
+    
+    
   ]
 }
