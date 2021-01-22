@@ -3,7 +3,10 @@
   "description": "感谢大佬们的付出👍",
   "task": [
     "8 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
-     "*/20 * * * * https://raw.githubusercontent.com/amhanpp/selfuse/main/jd_axc.js, tag=工业品爱消除, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylocks/jd_gyec.jpg, enabled=true",
+    "1 7 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nh.js, tag=京东年货节 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_nh.png",
+   "15 10 * * * https://raw.githubusercontent.com/amhanpp/selfuse/main/jd_joy_run.js, tag=宠汪汪邀请助力与赛跑助力 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_joy_run.png",
+    
+    "*/20 * * * * https://raw.githubusercontent.com/amhanpp/selfuse/main/jd_axc.js, tag=工业品爱消除, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylocks/jd_gyec.jpg, enabled=true",
     "0 */1 * * * https://raw.githubusercontent.com/amhanpp/selfuse/main/jd_axcl.js, tag=东东爱消除, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylocks/jd_xxl.jpg, enabled=true",
      "35 * * * * https://raw.githubusercontent.com/amhanpp/selfuse/main/jd_axcgh.js, tag=个护爱消除, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_xxl_gh.png, enabled=true",
     "30 8 * * * https://raw.githubusercontent.com/amhanpp/selfuse/main/jd_crazy_joy.js, tag=crazyJoy任务, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
