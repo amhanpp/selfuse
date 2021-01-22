@@ -32,6 +32,7 @@ const inviteCodes = [
   `UkZvPbI@eU9YaLrjN68g9GvWmnVF1A@eU9Yau7gZ6km9j3cmXRAgg@eU9YaOm7N_hw8G3QnnJG3g@eU9YarrmZfwgpG-GyyJFhw`,
   `UkZvPbI@eU9YaLrjN68g9GvWmnVF1A@eU9Yau7gZ6km9j3cmXRAgg@eU9YaOm7N_hw8G3QnnJG3g@eU9YarrmZfwgpG-GyyJFhw`
 ]
+/*
 if ($.isNode()) {
   Object.keys(jdCookieNode).forEach((item) => {
     cookiesArr.push(jdCookieNode[item])
@@ -46,6 +47,7 @@ if ($.isNode()) {
   cookiesArr.reverse();
   cookiesArr = cookiesArr.filter(item => item !== "" && item !== null && item !== undefined);
 }
+*/
 const JD_API_HOST = 'https://api.m.jd.com/client.action';
 !(async () => {
   if (!cookiesArr[0]) {
