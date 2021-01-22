@@ -25,9 +25,9 @@ const notify = $.isNode() ? require('./sendNotify') : '';
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 let jdNotify = true;//是否关闭通知，false打开通知推送，true关闭通知推送
 //IOS等用户直接用NobyDa的jd cookie
-let cookiesArr = [], cookie = '', message;
-let helpAuthor = true;
-const randomCount = $.isNode() ? 20 : 5;
+let cookiesArr = [UkZvPbI,eU9YaLrjN68g9GvWmnVF1A,eU9Yau7gZ6km9j3cmXRAgg,eU9YaOm7N_hw8G3QnnJG3g,eU9YarrmZfwgpG-GyyJFhw], cookie = '', message;
+let helpAuthor = false;
+const randomCount = $.isNode() ? 0 : 7;
 const inviteCodes = [
   `UkZvPbI@eU9YaLrjN68g9GvWmnVF1A@eU9Yau7gZ6km9j3cmXRAgg@eU9YaOm7N_hw8G3QnnJG3g@eU9YarrmZfwgpG-GyyJFhw`,
   `UkZvPbI@eU9YaLrjN68g9GvWmnVF1A@eU9Yau7gZ6km9j3cmXRAgg@eU9YaOm7N_hw8G3QnnJG3g@eU9YarrmZfwgpG-GyyJFhw`
