@@ -2,6 +2,7 @@
   "name": "自用",
   "description": "感谢大佬们的付出👍",
   "task": [
+   " 1 0 * * * https://raw.githubusercontent.com/amhanpp/selfuse/main/10000.js, tag=中国电信, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10000.png, enabled=true",
       "20 7 * * * https://raw.githubusercontent.com/amhanpp/selfuse/main/jd_super_box.js, tag=京东超级盒子, enabled=true",
     "8 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
    "11 1 * * * https://raw.githubusercontent.com/amhanpp/selfuse/main/jd_lotteryMachine.js, tag=抽奖机 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_lotteryMachine.png",
