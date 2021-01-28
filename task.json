@@ -4,6 +4,7 @@
   "task": [
    " 1 0 * * * https://raw.githubusercontent.com/amhanpp/selfuse/main/10000.js, tag=中国电信, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10000.png, enabled=true",
       "20 7 * * * https://raw.githubusercontent.com/amhanpp/selfuse/main/jd_super_box.js, tag=京东超级盒子, enabled=true",
+    "1 8,12,18 * * * https://raw.githubusercontent.com/amhanpp/selfuse/main/jd_bookshop.js, tag=口袋书店 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_bookshop.png",
             "0 8,9,10 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian.js, tag=京东炸年兽 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_nian.png",
         "20 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nianCollect.js, tag=炸年兽收爆竹 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_nianCollect.png",
         "0 9 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian_ar.js, tag=炸年兽AR , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_nian_ar.png",
