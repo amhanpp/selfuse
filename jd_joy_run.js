@@ -45,19 +45,19 @@ const isRequest = typeof $request != "undefined"
 const $ = new Env('宠汪汪赛跑');
 const JD_BASE_API = `https://draw.jdfcloud.com//pet`;
 //下面给出好友邀请助力的示例填写规则
-let invite_pins = ['jdAmhan,jd_15958758,X-FORCE-1,jd_62b1ed,jd_177460zsw,尘还诺'];
+let invite_pins = ['jd_4faac6553a6f2,Amhan,X-FORCE-1,jd_62b1e07c9b7cd,jd_177460zsw,尘还诺'];
 //下面给出好友赛跑助力的示例填写规则
-let run_pins = ['jdAmhan,jd_15958758,X-FORCE-1,jd_62b1ed,jd_177460zsw,尘还诺'];
+let run_pins = ['jd_4faac6553a6f2,Amhan,X-FORCE-1,jd_62b1e07c9b7cd,jd_177460zsw,尘还诺'];
 let temp = run_pins[0].split(',')
-let fixPins = temp.splice(temp.indexOf('jdAmha'), 1);
-fixPins.push(...temp.splice(temp.indexOf('jd_15958758'), 1));
+let fixPins = temp.splice(temp.indexOf('Amhan'), 1);
+fixPins.push(...temp.splice(temp.indexOf('jd_4faac6553a6f2'), 1));
 const randomPins = getRandomArrayElements(temp, 4);
 temp = [...fixPins, ...randomPins];
 run_pins = [temp.join(',')];
 // $.LKYLToken = '76fe7794c475c18711e3b47185f114b5' || $.getdata('jdJoyRunToken');
 // $.LKYLToken = $.getdata('jdJoyRunToken');
 //friendsArr内置太多会导致IOS端部分软件重启,可PR过来(此处目的:帮别人助力可得30g狗粮)
-let friendsArr = ["jdAmha", "jd_15958758", "X-FORCE-1", "jd_62b1ed", "jd_177460zsw", "尘还诺"]
+let friendsArr = ["jd_4faac6553a6f2", "Amhan", "X-FORCE-1", "jd_62b1e07c9b7cd", "jd_177460zsw", "尘还诺"]
 // $.LKYLToken = '76fe7794c475c18711e3b47185f114b5' || $.getdata('jdJoyRunToken');
 // $.LKYLToken = $.getdata('jdJoyRunToken');
 //Node.js用户请在jdCookie.js处填写京东ck;
